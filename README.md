@@ -2,8 +2,11 @@
 ## 데이터수집
 ### 크롤링
 [BeautifulSoup4](https://github.com/htright/Stock_Data_Analyze/blob/master/1.%20Web%20Crawling(S%26P%20500).ipynb)
+
 [Requests](https://github.com/htright/Stock_Data_Analyze/blob/master/2.%20ETF_Price_Crawling.ipynb)
+
 [Selenium](https://github.com/htright/Stock_Data_Analyze/blob/master/3.%20Selenium%20(News).ipynb)
+
 [Opensource](https://github.com/htright/Stock_Data_Analyze/blob/master/4.%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%88%EC%9C%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.ipynb) 
 
 - FinanceDataReader : 직관적으로 빠르게 데이터 수집
@@ -20,6 +23,10 @@
 - scipy
 - scikit-learn
 - statsmodels
+
+## 기술적 지표
+
+[MACD, 볼린저밴드](https://github.com/htright/Stock_Data_Analyze/blob/master/7.%20MACD_%EB%B3%BC%EB%A6%B0%EC%A0%80%EB%B0%B4%EB%93%9C.ipynb)
 
 
 
